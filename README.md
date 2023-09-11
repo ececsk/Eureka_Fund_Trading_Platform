@@ -1,2 +1,2 @@
-# Eureka_Fund_Trading_Platform
-Liquid Fund Trading Web Project
+## Eureka Fund Trading Platform
+Eureka is a Liquid Fund Trading Platform Web Project where my teammates an I try to implement the training we received during our internship. This Spring Boot project is built in Java 17 release. In addition, the JoinFaces library, which combines Spring Boot and Java Server Faces (JSF), was used in our project, and the PrimeFaces library was used for frontend designs.
